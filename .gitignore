@@ -67,3 +67,14 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# STM32CubeIDE / Eclipse Build folders
+Debug/
+Release/
+.metadata/
+*.elf
+*.bin
+*.list
+*.map
+*.o
+*.d
